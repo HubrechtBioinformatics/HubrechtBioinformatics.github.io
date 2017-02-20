@@ -59,12 +59,8 @@ All of you are more than welcome to ask us questions that you think we can help 
 <br><br><br><br>
 ----------------
 
-**Join our group, just send us an email if you are interested!**
-
-**To add yourself to the bioinformatics_hubrecht@googlegroups.com email list, send an email to the Hubrecht IT.**
-
+**Join our group, just send us an email if you are interested: bioinformatics_hubrecht@googlegroups.com**
 
 
  <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 [*edit the website*](https://github.com/HubrechtBioinformatics/HubrechtBioinformatics.github.io/edit/master/index.md)
-<!--[*edit the website*](https://github.com/HubrechtBioinformatics/HubrechtBioinformatics.github.io/generated_pages/new)-->
