@@ -32,8 +32,8 @@ All of you are more than welcome to ask us questions that you think we can help 
 #### The van Oudenaarden Group:
 
  - Aditya Barve
- - Ábel Vértesy
-<!--  ![image](https://avatars0.githubusercontent.com/u/5101911?v=3&u=e5fac0a61bf44082f478bf1d7fd4effd20ef0324&s=400) --> 	I am [Ábel Vértesy](https://github.com/vertesy), a PhD. candidate in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/). I am currently working on `allele specific expression` in `single-cells`, `spatial gene-expression` by sequencing and `cell fate decisions` in early embryos. 
+ - [Ábel Vértesy](https://github.com/vertesy  
+    I am a PhD. candidate in [Alexander van Oudenaarden's lab](http://www.hubrecht.eu/onderzoekers/van-oudenaarden-group/). I am currently working on `allele specific expression` in `single-cells`, `spatial gene-expression` by sequencing and `cell fate decisions` in early embryos. 
 
 
 ### Members from Princess Maxima Center
