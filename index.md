@@ -1,0 +1,51 @@
+## The Hubrecht Bioinformatics Group
+
+
+We realised that a lot of knowledge exists about statistics, data analysis, programming, etc. in the institute, but one often does not know whom to ask. Hence, we formed the bioinformatics group. 
+
+All of you are more than welcome to ask us questions that you think we can help you. Please keep in mind, we are not a core facility, but your colleagues who are happy to help you. 
+
+- Ask your questions at: **bioinformatics_hubrecht@googlegroups.com**, if we can help, we will answer you soon.
+- Visit our talks! *You find them in the Hubrecht calendar.*
+
+### Members from the Hubrecht Institute
+
+#### The Creyghton Group:
+
+ - Bas Castelijns
+
+#### The Kind Group:
+
+ - Sara Perricone
+ - Koos Rooijers
+
+#### The Kops Group:
+
+ - Jolien van Hooff
+ - Eelco Tromer
+
+#### The de Laat Group:
+
+ - Valerio Bianchi
+ - Geert Geeven
+
+#### The van Oudenaarden Group:
+
+ - Aditya Barve
+ - Ábel Vértesy
+
+### Members from Princess Maxima Center
+
+
+### Members from the Westerdijk Institute  
+
+
+
+<br><br><br><br>
+
+**Join our group, just send us an email if you are interested!**
+
+**To add yourself to the bioinfo@hubrecht.eu email list, send an email to the Hubrecht IT.**
+
+
+
