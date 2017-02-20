@@ -52,7 +52,8 @@ All of you are more than welcome to ask us questions that you think we can help 
 
 [Events of the Utrecht Bioinformatics Center]( https://ubc.uu.nl/events/)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&ctz=Europe/Budapest" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=400&amp;wkst=2&amp;bgcolor=%23000000&amp;src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Europe%2FBudapest" style="border:solid 1px #777" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+<!--<iframe src="https://calendar.google.com/calendar/embed?src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&ctz=Europe/Budapest" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
 
 
 <br><br><br><br>
