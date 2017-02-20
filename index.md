@@ -47,8 +47,10 @@ All of you are more than welcome to ask us questions that you think we can help 
 ## Events
 
 [Google Group](https://groups.google.com/forum/#!forum/bioinformatics_hubrecht)  
-[iCal](https://calendar.google.com/calendar/ical/39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com/public/basic.ics)  
+[iCal - offline](https://calendar.google.com/calendar/ical/39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com/public/basic.ics)  
 [html](https://calendar.google.com/calendar/embed?src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&ctz=Europe/Budapest)  
+
+[Events of the Utrecht Bioinformatics Center]( https://ubc.uu.nl/events/)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=39vnh9es1bn814e36a9oq7t5us%40group.calendar.google.com&ctz=Europe/Budapest" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
