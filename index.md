@@ -42,9 +42,9 @@ All of you are more than welcome to ask us questions that you think we can help 
 
 ### Members from the Westerdijk Institute  
 
-### Bioinformatics group
+#### Bioinformatics group
 - [Thies Gehrmann](https://thiesgehrmann.github.io)
-  I am a PostDoc working on genome sequencing, assembly and product discovery at the CBS/KNAW.
+  I am a PostDoc working on genome sequencing and assembly, and comparative genomics for product discovery at the CBS/KNAW.
 
 ## Events
 
