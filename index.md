@@ -38,7 +38,12 @@ All of you are more than welcome to ask us questions that you think we can help 
 
 ### Members from Princess Maxima Center
 
+#### The Holstege & Kemmeren Groups
 
+- Patrick Kemmeren
+- Philip Lijnzaad
+- Hinri Kerstens
+- Saman Amini
 
 ### Members from the Westerdijk Institute  
 
