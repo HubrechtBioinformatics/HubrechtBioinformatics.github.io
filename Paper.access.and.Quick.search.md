@@ -1,8 +1,9 @@
 # Quick Access to web resources
 
-A. Papers
-B. Proteins, genes, etc.
+A. Papers  
+B. Proteins, genes, etc.   
 
+<br><br><br><br>
 ## a) 1-click paper access using javascript [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet). 
 Description for Mozilla Firefox, might be possible in other browsers. Based on the one-liner script by E. Izquierdo, a former student in the AvanO lab.
 
