@@ -1,5 +1,5 @@
 # Quick Access to web resources
-> by Abel Vertesy, 21 April 2017
+> Written by Abel Vertesy, 21 April 2017
 
 <br>  
 A. Papers  
@@ -51,7 +51,7 @@ Let Firefox remember your `Solis-id` and password.
 -----------------------------------
 
 ## b) Quick, pre-specified search with keywords
-Idea by Koos Roojers from the Kind lab.
+Concept by Koos Rooijers from the Kind lab.
 
 ### 1. Setup the search & save the bookmark to the `Bookmark Toolbar`
 
