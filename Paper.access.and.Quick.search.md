@@ -1,5 +1,7 @@
 # Quick Access to web resources
+> by Abel Vertesy, 21 April 2017
 
+<br>  
 A. Papers  
 B. Proteins, genes, etc.   
 
@@ -14,12 +16,7 @@ Easiest to save any website, e.g.: [snag.gy](https://snag.gy/) or [smallpdf.com]
 ![bookmark](https://snag.gy/UgWduM.jpg)
     
     
-### 2. Drag-and-drop to the left most position of the  `Bookmark Toolbar`
-![](https://snag.gy/TzFtwH.jpg)
-
-      
-      
-### 3. Right click on the bookmark's icon, then select `properties` and paste (replace) the following line into the `location` field
+### 2. Right click on the bookmark's icon in the toolbar, then select `properties` and paste (replace) the following line into the `location` field
 
 `javascript:location.href%20=%20window.location.protocol%20+%20%22//%22%20+%20window.location.host%20+%20%22.proxy.library.uu.nl%22%20+%20window.location.pathname;`
 
@@ -29,7 +26,9 @@ Easiest to save any website, e.g.: [snag.gy](https://snag.gy/) or [smallpdf.com]
 The code means in simpler terms: `javascript:location.href = window.location.protocol + // + window.location.host + .proxy.library.uu.nl + window.location.pathname;`
 
 Read more on  [bookmarklets here](https://en.wikipedia.org/wiki/Bookmarklet). 
-  
+
+### 3. Drag-and-drop to the left most position of the  `Bookmark Toolbar`
+![](https://snag.gy/TzFtwH.jpg)
    
 ### 4. Install Firefox add-on `Bookmark Shortcut Keys`
 ![](https://snag.gy/YAfWon.jpg)
@@ -52,7 +51,7 @@ Let Firefox remember your `Solis-id` and password.
 -----------------------------------
 
 ## b) Quick, pre-specified search with keywords
-Idea by Koos Roojers at the Kind lab.
+Idea by Koos Roojers from the Kind lab.
 
 ### 1. Setup the search & save the bookmark to the `Bookmark Toolbar`
 
@@ -77,3 +76,6 @@ Try [Polycomb protein EED in Uniprot for mice](http://www.uniprot.org/uniprot/?q
 ![link](https://snag.gy/kuzgpc.jpg)
 
 → You will be redirected to a Uniprot search for mice proteins. You can do it with other additional filters and websites too.
+
+
+
