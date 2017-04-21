@@ -12,7 +12,7 @@ Description for Mozilla Firefox, might be possible in other browsers. Based on t
 ### Requirements
 
 - [SOLIS-ID and Password](https://www.uu.nl/en/organisation/information-and-technology-services-its/solis-id-and-password) for UU library. 
-- Firefox
+- Firefox, or other modern browsers.
 - Optionally: Bookmark Shortcut Keys add-on
 
 
