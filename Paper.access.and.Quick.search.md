@@ -6,8 +6,15 @@ A. Papers
 B. Proteins, genes, etc.   
 
 <br><br><br><br>
-## a) 1-click paper access using javascript [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet). 
+## a) 1-click paper access using javascript [bookmarklet](https://en.wikipedia.org/wiki/Bookmarklet) to reach the library's subscription. 
 Description for Mozilla Firefox, might be possible in other browsers. Based on the one-liner script by E. Izquierdo, a former student in the AvanO lab.
+
+### Requirements
+
+- [SOLIS-ID and Password](https://www.uu.nl/en/organisation/information-and-technology-services-its/solis-id-and-password) for UU library. 
+- Firefox
+- Optionally: Bookmark Shortcut Keys add-on
+
 
 ### 1. Create a new bookmark & save it to the `Bookmark Toolbar`
 
