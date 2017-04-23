@@ -51,8 +51,12 @@ Let Firefox remember your `Solis-id` and password.
 
 -  For most Elsevier journals you need to go to the **ScienceDirect** site.
 -  Disable `HTTPS everywhere` on nature.com
--  Alternatively you might find the paper on [http://sci-hub.cc/](http://sci-hub.cc/). Read more at [Wikipedia](https://en.wikipedia.org/wiki/Sci-Hub).
   
+### Alternatives
+
+- There is an experimental [browser plugin from UU](https://www.uu.nl/universiteitsbibliotheek/literatuur-zoeken/online-toegang/uu-easy-access-browserextensie-experiment).
+-  Alternatively you might find the paper on [http://sci-hub.cc/](http://sci-hub.cc/). Read more at [Wikipedia](https://en.wikipedia.org/wiki/Sci-Hub).
+
 <br><br><br><br><br><br>
   
 -----------------------------------
