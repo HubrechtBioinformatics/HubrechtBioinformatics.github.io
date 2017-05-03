@@ -40,6 +40,13 @@ Read more on  [bookmarklets here](https://en.wikipedia.org/wiki/Bookmarklet).
 ### 4. Install Firefox add-on `Bookmark Shortcut Keys`
 ![](https://snag.gy/YAfWon.jpg)
 
+ - CHROME VERSION: Install chrome add-on named: [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck).
+- Once installed right-click the icon of Shortkeys and select options & setup as below (Note: if you saved the Bookmark under a different name this may be different).
+- You can change the keyboard command as you wish.
+
+![link](https://snag.gy/z4jrWP.jpg)
+
+
 ### 5. Visit a [paper](http://www.sciencedirect.com/science/article/pii/S1097276509006418)
 
 ### 6. Hit `CTRL+1`
