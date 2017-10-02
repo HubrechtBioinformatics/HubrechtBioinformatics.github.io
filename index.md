@@ -13,7 +13,7 @@ All of you are more than welcome to ask us questions that you think we can help 
 #### The Creyghton Group:
 
  - Bas Castelijns
-    I am a PhD candidate in the [Menno Creyghton lab](https://www.hubrecht.eu/onderzoekers/creyghton-group/). I am currently working on the evolution of epigenetic networks in the primate brain.
+     I am a PhD candidate in the [Menno Creyghton lab](https://www.hubrecht.eu/onderzoekers/creyghton-group/). I am currently working on the evolution of epigenetic networks in the primate brain.
  - Mirna Baak
 
 #### The Kind Group:
